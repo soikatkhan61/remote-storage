@@ -2,7 +2,7 @@ const express = require('express')
 const mongoose = require('mongoose')
 
 let monngodb_url
-if(false){
+if(true){
     monngodb_url="mongodb+srv://admin:admin@cluster0.1hicf1e.mongodb.net/test";
 
 }else{
